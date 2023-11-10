@@ -51,7 +51,7 @@ Before you begin, ensure you have the following installed:
     npm run server
     ```
 
-   The server will be running on `http://localhost:3000` by default. Update the port in `index.js` if needed.
+   The server will be running on `http://localhost:[your port number]`. provide the port in `.env`.
 
 2. **API Testing:**
 
