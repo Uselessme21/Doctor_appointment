@@ -24,7 +24,7 @@ Before you begin, ensure you have the following installed:
 1. **Clone the repository:**
 
     ```bash
-    git clone https://github.com/your-username/air-ticket-booking-backend.git
+    git clone https://github.com/Uselessme21/Doctor_appointment.git
     ```
 
 2. **Navigate to the project folder:**
