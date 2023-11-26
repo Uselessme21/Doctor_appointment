@@ -1,7 +1,7 @@
 # Doctor_appointment
-# Air Ticket Booking System Backend
 
-This project implements the backend for an Air Ticket Booking System using Node.js, Express.js, and MongoDB. It provides APIs for user registration, authentication, flight management, and booking functionalities.
+
+This project implements the backend for an Doctor appointment using Node.js, Express.js, and MongoDB. It provides APIs for user registration, authentication, flight management, and booking functionalities.
 
 ## Table of Contents
 
