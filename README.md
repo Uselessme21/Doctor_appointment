@@ -206,25 +206,4 @@ Before you begin, ensure you have the following installed:
   }
   ```
 
-# folder structure
-- config/
-  - db.js
-- controller/
-  - auth.controller.js
-  - flight.controller.js
-  - booking.controller.js
-- middleware/
-  - auth.middleware.js
-  - error.middleware.js
-- model/
-  - user.model.js
-  - flight.model.js
-  - booking.model.js
-- router/
-  - auth.router.js
-  - flight.router.js
-  - booking.router.js
-- index.js
-- package.json
-- README.md
 
